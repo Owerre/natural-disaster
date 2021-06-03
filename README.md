@@ -10,9 +10,8 @@ EMDAT contains essential core data on the occurrence and effects of over 22,000 
 
 - Storm produced the most economic cost over the years.
 
-![fig](images/fig2b.png)
-![fig](images/fig4a.png)
 ![fig](images/fig2c.png)
+![fig](images/fig4a.png)
 ![fig](images/fig3.png)
 
 
