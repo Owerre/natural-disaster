@@ -13,7 +13,7 @@ EMDAT contains essential core data on the occurrence and effects of over 22,000 
 ![fig](images/fig2b.png)
 ![fig](images/fig4a.png)
 ![fig](images/fig2c.png)
-![fig](images/fig3c.png)
+![fig](images/fig3.png)
 
 
 ## Number of Occurrences of  Nautral Disaster
