@@ -6,7 +6,9 @@ EMDAT contains essential core data on the occurrence and effects of over 22,000 
 
 ## Trend of Natural Disaster by Continent, Country, & Types
 
-- The predominant causes of natural disasters are flood and storm - they occur mostly in Asia and Americas, particularly in the united states and China
+- The predominant causes of natural disasters are flood and storm - they occur mostly in Asia and Americas, particularly in the united states and China.
+
+- Storm produced the most economic cost over the years.
 
 ![fig](images/fig2b.png)
 ![fig](images/fig4a.png)
