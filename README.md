@@ -13,13 +13,15 @@ EMDAT contains essential core data on the occurrence and effects of over 22,000 
 ![fig](images/fig2c.png)
 ![fig](images/fig4a.png)
 ![fig](images/fig3c.png)
+![fig](images/fig_bb.png)
+
 
 
 ## Number of Occurrences of  Nautral Disaster
 
 - The occurrence of natural disasters was very minimal between the decades 1900s & 1910s,  probably due to lack of data. However, as the years went by the occurrence of natural disasters increases exponentially especially between 1990 & 2004. Then, it seems to be decreasing afterwards.
 
-- The occurrence rate of earthquakes is decreasing, whereas the occurrence rate floods and storms is increasing
+- The occurrence rate of earthquakes is decreasing, whereas the occurrence rate of floods and storms is increasing
 
 ![fig](images/fig1a.png)
 ![fig](images/fig1f.png)
