@@ -1,3 +1,9 @@
+####################################
+# Author: S. A. Owerre
+# Date modified: 10/05/2021
+# Class: Machine learning
+####################################
+
 # Filter warnings
 import warnings
 warnings.filterwarnings("ignore")
